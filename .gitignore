@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.replit
 
 # Compiled Object files
 *.slo
