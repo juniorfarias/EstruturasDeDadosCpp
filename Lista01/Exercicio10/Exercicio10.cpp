@@ -22,7 +22,7 @@ int divisao(int num1, int num2) {
     if(num2 > num1){
         return result = 0;
     } else {
-        while(num1>0){
+        while(num1>1){
             num1 = num1 - num2;
             result++;
         }
